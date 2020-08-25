@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<embryo>
+<image file="C:<nuclei file="./testoutput/ZD_BV24_JournalV_1_s1__output.zip"/>
+<end index="475"/>
+<resolution xyRes="0.254" zRes="1" planeEnd="30"/> <exprCorr type="blot"/>
+<polar size="15"/>
+</embryo>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<embryo>
+<useStack type="2"/><image file="L:\kovacevi\Si_obj_trial\20140407_JIM113_SiO60\20140407_JIM113_SiO-0.15_1_s1_t1.tif"/>
+<nuclei file="C:/Users/shahp2/Documents/MATLAB/SN/launcher_interface/ZD_BV24_JournalV_1_s1_emb1.zip"/>
+<end index="475"/>
+<resolution xyRes="0.15" zRes="0.75" planeEnd="60"/> <exprCorr type="blot"/>
+<polar size="15"/>
+</embryo>

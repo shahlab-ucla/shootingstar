@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<embryo>
+<image file="L:<nuclei file="./testoutput/20140407_JIM113_SiO-0.15_1_s1__output.zip"/>
+<end index="475"/>
+<resolution xyRes="0.15" zRes="0.75" planeEnd="60"/> <exprCorr type="blot"/>
+<polar size="15"/>
+</embryo>
